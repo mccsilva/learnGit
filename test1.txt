@@ -1,2 +1,2 @@
 thsi is test1
-create a new branch
+Creating a new branch is quick AND simple.
